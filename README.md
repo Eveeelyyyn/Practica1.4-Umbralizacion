@@ -2,10 +2,10 @@
 
 ![Ejemplo de Imagen Umbralizada](imagen_ejemplo.png)
 
-Bienvenidos a nuestro proyecto de umbralización de imágenes en Python. En este trabajo, hemos desarrollado un programa que implementa diversas técnicas de umbralización de imágenes. Estas técnicas permiten procesar imágenes en escala de grises y obtener resultados de segmentación efectivos.
+En este trabajo, se ha desarrollado un programa que implementa diversas técnicas de umbralización de imágenes. Estas técnicas permiten procesar imágenes en escala de grises y obtener resultados de segmentación efectivos.
 
 ## Técnicas de Umbralización Implementadas
-En este proyecto, hemos implementado las siguientes técnicas de umbralización:
+Técnicas de umbralización:
 
 1. **Umbralización Global:** Este método utiliza un valor de umbral fijo para separar píxeles de una imagen en dos categorías: píxeles por debajo del umbral y píxeles por encima del umbral. Es una técnica básica pero útil en muchas aplicaciones.
 
@@ -26,8 +26,7 @@ Aquí te proporcionamos instrucciones sobre cómo utilizar nuestro programa:
 4. El programa aplicará las técnicas de umbralización y mostrará los resultados utilizando Matplotlib.
 
 ## Autores
-Este proyecto fue realizado por un equipo apasionado de desarrolladores:
-- [Aranza Michelle Gutierrez Jimenez](https://github.com/AranzaMich)
-- [Evelyn Solano Portillo](https://github.com/Eveeelyyyn)
-- [Marco Castelan Rosete](https://github.com/marco2220x)
-- [Daniel Vega Rodríguez](https://github.com/DanVer2002)
+Este proyecto fue realizado por un equipo de estudiantes:
+| [<img src="https://avatars.githubusercontent.com/u/113084234?v=4" width=115><br><sub>Aranza Michelle Gutierrez Jimenez</sub>](https://github.com/AranzaMich) |  [<img src="https://avatars.githubusercontent.com/u/113297618?v=4" width=115><br><sub>Evelyn Solano Portillo</sub>](https://github.com/Eveeelyyyn) |  [<img src="https://avatars.githubusercontent.com/u/112792541?v=4" width=115><br><sub>Marco Castelan Rosete</sub>](https://github.com/marco2220x) | [<img src="https://avatars.githubusercontent.com/u/113079687?v=4" width=115><br><sub>Daniel Vega Rodríguez</sub>](https://github.com/DanVer2002) |
+| :---: | :---: | :---: | :---: |
+
