@@ -1,6 +1,6 @@
 # Umbralización de Imágenes en Python 📸
 
-![Ejemplo de Imagen Umbralizada](imagen_ejemplo.png)
+![Ejemplo de Imagen Umbralizada](/imagenesREADME/Figure1.jpeg)
 
 En este trabajo, se ha desarrollado un programa que implementa diversas técnicas de umbralización de imágenes. Estas técnicas permiten procesar imágenes en escala de grises y obtener resultados de segmentación efectivos.
 
