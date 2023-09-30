@@ -1,6 +1,6 @@
 # Umbralización de Imágenes en Python 📸
 
-![Ejemplo de Imagen Umbralizada](/imagenesREADME/Figure1.jpeg)
+![Ejemplo de Imagen Umbralizada](/imagenesResultados/Figure8.jpeg)
 
 En este trabajo, se ha desarrollado un programa que implementa diversas técnicas de umbralización de imágenes. Estas técnicas permiten procesar imágenes en escala de grises y obtener resultados de segmentación efectivos.
 
@@ -25,7 +25,7 @@ Para facilitar la evaluación de los resultados de cada técnica, hemos utilizad
 
 ### Resultados obtenidos a partir de implementar el Algoritmo Etiquetado de Componentes Conectados
 
-![Resultado 4](/imagenesResultados/Figure4.jpeg) ![Resultado 5](/imagenesResultados/Figure5.jpeg) ![Resultado 6](/imagenesResultados/Figure6.jpeg) ![Resultado 7](/imagenesResultados/Figure7.jpeg) ![Resultado 8](/imagenesResultados/Figure8.jpeg)
+![Resultado 4](/imagenesResultados/Figure4.jpeg) ![Resultado 5](/imagenesResultados/Figure5.jpeg) ![Resultado 6](/imagenesResultados/Figure6.jpeg) 
 
 
 ## Cómo Usar el Programa
