@@ -16,17 +16,17 @@ Técnicas de umbralización:
 ## Visualización de Resultados
 Para que puedas evaluar fácilmente los resultados de cada técnica, hemos utilizado la biblioteca Matplotlib para mostrarlos en una sola imagen. Cada resultado se presenta en un subplot separado, lo que facilita la comparación y evaluación de las diferentes técnicas.
 
-**Resultados obtenidos a partir de implementar los Métodos de Umbralización Global, Umbralización Global por Otsu y Umbralización Local Adaptativa por el Método de Bernsen**
-(/imagenesResultados/Figure1.jpeg)
-(/imagenesResultados/Figure2.jpeg)
-(/imagenesResultados/Figure3.jpeg)
+## Visualización de Resultados
+Para facilitar la evaluación de los resultados de cada técnica, hemos utilizado la biblioteca Matplotlib para mostrarlos en una sola imagen. Cada resultado se presenta en un subplot separado, lo que facilita la comparación y evaluación de las diferentes técnicas.
 
-**Resultados obtenidos a partir de implementar el Algoritmo Etiquetado de Componentes Conectados**
-(/imagenesResultados/Figure4.jpeg)
-(/imagenesResultados/Figure5.jpeg)
-(/imagenesResultados/Figure6.jpeg)
-(/imagenesResultados/Figure7.jpeg)
-(/imagenesResultados/Figure8.jpeg)
+### Resultados obtenidos a partir de implementar los Métodos de Umbralización Global, Umbralización Global por Otsu y Umbralización Local Adaptativa por el Método de Bernsen
+
+![Resultado 1](/imagenesResultados/Figure1.jpeg) ![Resultado 2](/imagenesResultados/Figure2.jpeg) ![Resultado 3](/imagenesResultados/Figure3.jpeg)
+
+### Resultados obtenidos a partir de implementar el Algoritmo Etiquetado de Componentes Conectados
+
+![Resultado 4](/imagenesResultados/Figure4.jpeg) ![Resultado 5](/imagenesResultados/Figure5.jpeg) ![Resultado 6](/imagenesResultados/Figure6.jpeg) ![Resultado 7](/imagenesResultados/Figure7.jpeg) ![Resultado 8](/imagenesResultados/Figure8.jpeg)
+
 
 ## Cómo Usar el Programa
 Aquí te proporcionamos instrucciones sobre cómo utilizar nuestro programa:
