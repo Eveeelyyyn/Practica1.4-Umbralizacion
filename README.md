@@ -1,7 +1,4 @@
 # Umbralización de Imágenes en Python 📸
-
-![Ejemplo de Imagen Umbralizada](/imagenesResultados/Figure8.jpeg)
-
 En este trabajo, se ha desarrollado un programa que implementa diversas técnicas de umbralización de imágenes. Estas técnicas permiten procesar imágenes en escala de grises y obtener resultados de segmentación efectivos.
 
 ## Técnicas de Umbralización Implementadas
@@ -16,16 +13,37 @@ Técnicas de umbralización:
 ## Visualización de Resultados
 Para que puedas evaluar fácilmente los resultados de cada técnica, hemos utilizado la biblioteca Matplotlib para mostrarlos en una sola imagen. Cada resultado se presenta en un subplot separado, lo que facilita la comparación y evaluación de las diferentes técnicas.
 
-## Visualización de Resultados
-Para facilitar la evaluación de los resultados de cada técnica, hemos utilizado la biblioteca Matplotlib para mostrarlos en una sola imagen. Cada resultado se presenta en un subplot separado, lo que facilita la comparación y evaluación de las diferentes técnicas.
+#### Resultados obtenidos a partir de implementar los Métodos de Umbralización Global, Umbralización Global por Otsu y Umbralización Local Adaptativa por el Método de Bernsen
 
-### Resultados obtenidos a partir de implementar los Métodos de Umbralización Global, Umbralización Global por Otsu y Umbralización Local Adaptativa por el Método de Bernsen
+<table>
+  <tr>
+    <td align="center">
+      <img src="/imagenesResultados/Figure1.jpeg" alt="Resultado 1" width="400"/>
+    </td>
+    <td align="center">
+      <img src="/imagenesResultados/Figure2.jpeg" alt="Resultado 2" width="400"/>
+    </td>
+    <td align="center">
+      <img src="/imagenesResultados/Figure3.jpeg" alt="Resultado 3" width="400"/>
+    </td>
+  </tr>
+</table>
 
-![Resultado 1](/imagenesResultados/Figure1.jpeg) ![Resultado 2](/imagenesResultados/Figure2.jpeg) ![Resultado 3](/imagenesResultados/Figure3.jpeg)
+#### Resultados obtenidos a partir de implementar el Algoritmo Etiquetado de Componentes Conectados
 
-### Resultados obtenidos a partir de implementar el Algoritmo Etiquetado de Componentes Conectados
-
-![Resultado 4](/imagenesResultados/Figure4.jpeg) ![Resultado 5](/imagenesResultados/Figure5.jpeg) ![Resultado 6](/imagenesResultados/Figure6.jpeg) 
+<table>
+  <tr>
+    <td align="center">
+      <img src="/imagenesResultados/Figure6.jpeg" alt="Resultado 6" width="400"/>
+    </td>
+    <td align="center">
+      <img src="/imagenesResultados/Figure7.png" alt="Resultado 7" width="400"/>
+    </td>
+    <td align="center">
+      <img src="/imagenesResultados/Figure8.png" alt="Resultado 8" width="400"/>
+    </td>
+  </tr>
+</table>
 
 
 ## Cómo Usar el Programa
